@@ -1,9 +1,0 @@
-{
-	"name": "OpenWeatherMap",
-	"location": "germanywestcentral",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "02a8abe7-179d-49a3-908e-f40bf3b7bfef",
-		"tenantId": "ae8a1e2c-b7c9-4ee5-bc8d-f5de009a9ab9"
-	}
-}
