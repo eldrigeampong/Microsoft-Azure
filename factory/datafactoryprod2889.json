@@ -1,5 +1,10 @@
 {
 	"name": "datafactoryprod2889",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
 	"location": "germanywestcentral",
 	"identity": {
 		"type": "SystemAssigned",
