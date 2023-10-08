@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryprod2889",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4362751d-1ce6-4470-890a-23f569e19acd",
+		"tenantId": "ae8a1e2c-b7c9-4ee5-bc8d-f5de009a9ab9"
+	}
+}
